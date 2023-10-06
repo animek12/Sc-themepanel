@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/animek12/Utama/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/animek12/Sc-themepanel/main/install.sh)
 ```
 
 Screenshots:
